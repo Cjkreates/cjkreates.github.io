@@ -1,7 +1,13 @@
 title: cjreates
 tagline: Thoughts on tech, design, and creativity
+description: A blog by cjkreates
 lang: en
 timezone: Africa/Nairobi
+
 author:
   name: cjkreates
+  bio: Sharing tech, design, and creative ideas.
+  github: cjkreates
+  email: cjkreates@gmail.com
+
 theme_mode: dark
